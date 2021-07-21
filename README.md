@@ -1,6 +1,6 @@
 # periodic_table_app
 
-A new Flutter project.
+Periodic table project made on flutter, consuming JSON and using Material Desing principles. Enjoy!
 
 ## Getting Started
 
